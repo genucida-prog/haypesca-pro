@@ -1,17 +1,1 @@
-{
-  "name": "HayPesca Pro",
-  "short_name": "HayPesca",
-  "description": "App profesional de pesca playa y rio en España - identifica peces, meteo, chats por provincia, foro",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#0F1C2E",
-  "theme_color": "#FF6B35",
-  "icons": [
-    {
-      "src": "dorada_app_icon.webp",
-      "sizes": "512x512",
-      "type": "image/webp",
-      "purpose": "any maskable"
-    }
-  ]
-}
+{"name":"HayPesca Pro","short_name":"HayPesca","description":"Proyecto sin animo lucro por pescadores para pescadores","start_url":"./index.html","display":"standalone","background_color":"#0F1C2E","theme_color":"#FF6B35","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}]}
