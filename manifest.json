@@ -1,1 +1,37 @@
-{"name":"HayPesca Pro","short_name":"HayPesca","description":"Proyecto sin animo lucro por pescadores para pescadores","start_url":"./index.html","display":"standalone","background_color":"#0F1C2E","theme_color":"#FF6B35","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "HayPesca Pro - Comunidad de Pescadores",
+  "short_name": "HayPesca",
+  "description": "Proyecto sin animo de lucro creado por pescadores para pescadores. Comunidad activa de pesca en mar, rios y embalses. Sin publicidad invasiva, codigo abierto y gratuito.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0F1C2E",
+  "theme_color": "#FF6B35",
+  "orientation": "portrait",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
